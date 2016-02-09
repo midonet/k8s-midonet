@@ -1,3 +1,9 @@
-# UUID       	Group Name
+# UUID                                  	Group Name
 #
-user:celebdor	user/Antoni Segura Puimedon (celebdor)
+aa866ba911e0b3f66457b1ec13c96b51923af7b7	midonet-integrations
+bb2493103733276e53f9fecdeb41e62f8e28bd40	midonet-integrations-core
+bd7309f63eacce6d7d6540c367b126dd3115acac	midonet-bots
+c64c8b7b0d71784704261d4ce2de2704a1c7a3bc	midonet-admins
+global:Anonymous-Users                  	Anonymous Users
+global:Registered-Users                 	Registered Users
+user:celebdor                           	user/Antoni Segura Puimedon (celebdor)
