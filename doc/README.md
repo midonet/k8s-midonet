@@ -8,6 +8,11 @@ source in this directory thanks to
 
     $ pip install -U Sphinx
 
+[Reno](https://pypi.python.org/pypi/reno/1.3.1) is a tool that creates the
+Release Notes. It is also needed for the make command:
+
+    $ pip install -U reno
+
 To build the documenation in a specific format, e.g. html, simply do:
 
     $ make html
