@@ -1,0 +1,147 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a72e520_2e8d6b32",
+        "filename": "doc/source/deployment/ubuntu_multi.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1003470
+      },
+      "writtenOn": "2016-02-23T09:23:25Z",
+      "side": 1,
+      "message": "remove \u0027about\u0027",
+      "range": {
+        "startLine": 4,
+        "startChar": 72,
+        "endLine": 4,
+        "endChar": 77
+      },
+      "revId": "e51a0d2d5dd27c4d75f9a0c7925a9c1e94f61dd0",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_ae9f9b4f",
+        "filename": "doc/source/deployment/ubuntu_multi.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 1003470
+      },
+      "writtenOn": "2016-02-23T09:23:25Z",
+      "side": 1,
+      "message": "is there any assumption/prerequisite on Nodes connectivity?",
+      "revId": "e51a0d2d5dd27c4d75f9a0c7925a9c1e94f61dd0",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_ce80578e",
+        "filename": "doc/source/deployment/ubuntu_multi.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 1003470
+      },
+      "writtenOn": "2016-02-23T09:23:25Z",
+      "side": 1,
+      "message": "public",
+      "range": {
+        "startLine": 45,
+        "startChar": 61,
+        "endLine": 45,
+        "endChar": 67
+      },
+      "revId": "e51a0d2d5dd27c4d75f9a0c7925a9c1e94f61dd0",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_0e4a6f83",
+        "filename": "doc/source/deployment/ubuntu_multi.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 49,
+      "author": {
+        "id": 1003470
+      },
+      "writtenOn": "2016-02-23T09:23:25Z",
+      "side": 1,
+      "message": "here is can be useful to provide an example how to enable it in some environments, GCP, AWS",
+      "revId": "e51a0d2d5dd27c4d75f9a0c7925a9c1e94f61dd0",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_8e5d7f4b",
+        "filename": "doc/source/deployment/ubuntu_multi.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 83,
+      "author": {
+        "id": 1003470
+      },
+      "writtenOn": "2016-02-23T09:23:25Z",
+      "side": 1,
+      "message": "I think that instruction how to deploy midonet (agent/cluster) should be added as well. Maybe as a follow up patch, but please add some TODO here",
+      "revId": "e51a0d2d5dd27c4d75f9a0c7925a9c1e94f61dd0",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_2e4f2b94",
+        "filename": "doc/source/deployment/ubuntu_multi.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 87,
+      "author": {
+        "id": 1003470
+      },
+      "writtenOn": "2016-02-23T09:23:25Z",
+      "side": 1,
+      "message": "destroy",
+      "range": {
+        "startLine": 87,
+        "startChar": 71,
+        "endLine": 87,
+        "endChar": 78
+      },
+      "revId": "e51a0d2d5dd27c4d75f9a0c7925a9c1e94f61dd0",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_4e446774",
+        "filename": "doc/source/deployment/ubuntu_multi.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 89,
+      "author": {
+        "id": 1003470
+      },
+      "writtenOn": "2016-02-23T09:23:25Z",
+      "side": 1,
+      "message": "remove",
+      "range": {
+        "startLine": 89,
+        "startChar": 49,
+        "endLine": 89,
+        "endChar": 51
+      },
+      "revId": "e51a0d2d5dd27c4d75f9a0c7925a9c1e94f61dd0",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
