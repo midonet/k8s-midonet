@@ -22,6 +22,30 @@
       "revId": "ef87817ee29888e4ef1544ddb115fc0ae6e7f989",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_b83ef827",
+        "filename": "doc/source/deployment/ubuntu_multi.rst",
+        "patchSetId": 4
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 1002743
+      },
+      "writtenOn": "2016-02-25T08:46:17Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "5a72e520_f8b8702c",
+      "range": {
+        "startLine": 22,
+        "startChar": 84,
+        "endLine": 22,
+        "endChar": 88
+      },
+      "revId": "ef87817ee29888e4ef1544ddb115fc0ae6e7f989",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
     }
   ]
 }
