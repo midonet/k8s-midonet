@@ -102,6 +102,24 @@
     },
     {
       "key": {
+        "uuid": "5a72e520_58098494",
+        "filename": "doc/source/deployment/ubuntu_multi.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 1002743
+      },
+      "writtenOn": "2016-02-25T08:45:50Z",
+      "side": 1,
+      "message": "What do you mean by the management network and the data network here? The deployment is done before any pod communications happen and everything is done though the default interface connected to other nodes and the internet, eth0 usually.\n\nYour computer runs the deployment script copies necessary binaries to the nodes with scp and make requests for the cluster components such as etcd and apiserver. It would run commands sshing into the ndoes. On GCP, the process can\u0027t be finished appropriately though the external IPs because of the default wirewall configurations and so on. Plus, the network on GCP is insanely fast, so it\u0027s better to deploy inside the cloud service.",
+      "parentUuid": "5a72e520_1848ec5a",
+      "revId": "e51a0d2d5dd27c4d75f9a0c7925a9c1e94f61dd0",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5a72e520_ce80578e",
         "filename": "doc/source/deployment/ubuntu_multi.rst",
         "patchSetId": 2
