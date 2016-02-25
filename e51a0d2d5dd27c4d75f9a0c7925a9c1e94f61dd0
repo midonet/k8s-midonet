@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "5a72e520_dd9f264f",
+        "filename": "doc/source/deployment/ubuntu_multi.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1002743
+      },
+      "writtenOn": "2016-02-25T03:30:53Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "5a72e520_2e8d6b32",
+      "range": {
+        "startLine": 4,
+        "startChar": 72,
+        "endLine": 4,
+        "endChar": 77
+      },
+      "revId": "e51a0d2d5dd27c4d75f9a0c7925a9c1e94f61dd0",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5a72e520_ae9f9b4f",
         "filename": "doc/source/deployment/ubuntu_multi.rst",
         "patchSetId": 2
@@ -36,6 +60,24 @@
       "writtenOn": "2016-02-23T09:23:25Z",
       "side": 1,
       "message": "is there any assumption/prerequisite on Nodes connectivity?",
+      "revId": "e51a0d2d5dd27c4d75f9a0c7925a9c1e94f61dd0",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_bdf7ca8b",
+        "filename": "doc/source/deployment/ubuntu_multi.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 1002743
+      },
+      "writtenOn": "2016-02-25T03:30:53Z",
+      "side": 1,
+      "message": "I\u0027m not following what you\u0027re describing here? Nodes need to be able to communicate with each other but I think it\u0027s obvious. Could you give me some examples for what you\u0027re expecting here?",
+      "parentUuid": "5a72e520_ae9f9b4f",
       "revId": "e51a0d2d5dd27c4d75f9a0c7925a9c1e94f61dd0",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
@@ -65,6 +107,30 @@
     },
     {
       "key": {
+        "uuid": "5a72e520_fdace28e",
+        "filename": "doc/source/deployment/ubuntu_multi.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 1002743
+      },
+      "writtenOn": "2016-02-25T03:30:53Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "5a72e520_ce80578e",
+      "range": {
+        "startLine": 45,
+        "startChar": 61,
+        "endLine": 45,
+        "endChar": 67
+      },
+      "revId": "e51a0d2d5dd27c4d75f9a0c7925a9c1e94f61dd0",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5a72e520_0e4a6f83",
         "filename": "doc/source/deployment/ubuntu_multi.rst",
         "patchSetId": 2
@@ -82,6 +148,24 @@
     },
     {
       "key": {
+        "uuid": "5a72e520_fdc30236",
+        "filename": "doc/source/deployment/ubuntu_multi.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 49,
+      "author": {
+        "id": 1002743
+      },
+      "writtenOn": "2016-02-25T03:30:53Z",
+      "side": 1,
+      "message": "It\u0027s beyond the scope of this document. I could configure it without any documentation. It was quite obvious and almost the same as SG of OpenStack. I just put the links for the help docs here.",
+      "parentUuid": "5a72e520_0e4a6f83",
+      "revId": "e51a0d2d5dd27c4d75f9a0c7925a9c1e94f61dd0",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5a72e520_8e5d7f4b",
         "filename": "doc/source/deployment/ubuntu_multi.rst",
         "patchSetId": 2
@@ -93,6 +177,24 @@
       "writtenOn": "2016-02-23T09:23:25Z",
       "side": 1,
       "message": "I think that instruction how to deploy midonet (agent/cluster) should be added as well. Maybe as a follow up patch, but please add some TODO here",
+      "revId": "e51a0d2d5dd27c4d75f9a0c7925a9c1e94f61dd0",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_3ddd9a15",
+        "filename": "doc/source/deployment/ubuntu_multi.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 83,
+      "author": {
+        "id": 1002743
+      },
+      "writtenOn": "2016-02-25T03:30:53Z",
+      "side": 1,
+      "message": "It\u0027s totally beyond the scope of \"Kubernetes deployment guide on Multi Ubuntu nodes\", which is the title. And what\u0027s the point to have another deployment guide besides what we already have?\n\nThe deployment of the CNI plugin is another beast and we should have it once we finished the development.",
+      "parentUuid": "5a72e520_8e5d7f4b",
       "revId": "e51a0d2d5dd27c4d75f9a0c7925a9c1e94f61dd0",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
@@ -122,6 +224,30 @@
     },
     {
       "key": {
+        "uuid": "5a72e520_5de256d6",
+        "filename": "doc/source/deployment/ubuntu_multi.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 87,
+      "author": {
+        "id": 1002743
+      },
+      "writtenOn": "2016-02-25T03:30:53Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "5a72e520_2e4f2b94",
+      "range": {
+        "startLine": 87,
+        "startChar": 71,
+        "endLine": 87,
+        "endChar": 78
+      },
+      "revId": "e51a0d2d5dd27c4d75f9a0c7925a9c1e94f61dd0",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5a72e520_4e446774",
         "filename": "doc/source/deployment/ubuntu_multi.rst",
         "patchSetId": 2
@@ -133,6 +259,30 @@
       "writtenOn": "2016-02-23T09:23:25Z",
       "side": 1,
       "message": "remove",
+      "range": {
+        "startLine": 89,
+        "startChar": 49,
+        "endLine": 89,
+        "endChar": 51
+      },
+      "revId": "e51a0d2d5dd27c4d75f9a0c7925a9c1e94f61dd0",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_9deccec9",
+        "filename": "doc/source/deployment/ubuntu_multi.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 89,
+      "author": {
+        "id": 1002743
+      },
+      "writtenOn": "2016-02-25T03:30:53Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "5a72e520_4e446774",
       "range": {
         "startLine": 89,
         "startChar": 49,
