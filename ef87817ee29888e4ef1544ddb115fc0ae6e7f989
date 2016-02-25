@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a72e520_f8b8702c",
+        "filename": "doc/source/deployment/ubuntu_multi.rst",
+        "patchSetId": 4
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 1002897
+      },
+      "writtenOn": "2016-02-25T07:22:25Z",
+      "side": 1,
+      "message": "node",
+      "range": {
+        "startLine": 22,
+        "startChar": 84,
+        "endLine": 22,
+        "endChar": 88
+      },
+      "revId": "ef87817ee29888e4ef1544ddb115fc0ae6e7f989",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
