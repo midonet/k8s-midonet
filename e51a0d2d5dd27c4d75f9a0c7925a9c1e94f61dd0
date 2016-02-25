@@ -84,6 +84,24 @@
     },
     {
       "key": {
+        "uuid": "5a72e520_1848ec5a",
+        "filename": "doc/source/deployment/ubuntu_multi.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 1003470
+      },
+      "writtenOn": "2016-02-25T07:16:47Z",
+      "side": 1,
+      "message": "Management network and data network are on the same interface?",
+      "parentUuid": "5a72e520_bdf7ca8b",
+      "revId": "e51a0d2d5dd27c4d75f9a0c7925a9c1e94f61dd0",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5a72e520_ce80578e",
         "filename": "doc/source/deployment/ubuntu_multi.rst",
         "patchSetId": 2
@@ -195,6 +213,24 @@
       "side": 1,
       "message": "It\u0027s totally beyond the scope of \"Kubernetes deployment guide on Multi Ubuntu nodes\", which is the title. And what\u0027s the point to have another deployment guide besides what we already have?\n\nThe deployment of the CNI plugin is another beast and we should have it once we finished the development.",
       "parentUuid": "5a72e520_8e5d7f4b",
+      "revId": "e51a0d2d5dd27c4d75f9a0c7925a9c1e94f61dd0",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_9873fcb0",
+        "filename": "doc/source/deployment/ubuntu_multi.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 83,
+      "author": {
+        "id": 1003470
+      },
+      "writtenOn": "2016-02-25T07:16:47Z",
+      "side": 1,
+      "message": "Eventually, I had something as calico maintain in mind: https://github.com/projectcalico/calico-containers/blob/v0.14.0/README.md. This doc is probably part of the documentation. But in general, all relevant docs should be helpful for kube- midonet users",
+      "parentUuid": "5a72e520_3ddd9a15",
       "revId": "e51a0d2d5dd27c4d75f9a0c7925a9c1e94f61dd0",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
