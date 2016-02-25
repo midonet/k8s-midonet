@@ -65,6 +65,23 @@
     },
     {
       "key": {
+        "uuid": "5a72e520_53188684",
+        "filename": "doc/source/deployment/ubuntu_multi.rst",
+        "patchSetId": 5
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 1002749
+      },
+      "writtenOn": "2016-02-25T17:08:31Z",
+      "side": 1,
+      "message": "tried. add curl as well.",
+      "revId": "5ea3e57a694a60f42a5b257aff114bc1b4ea2d3d",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5a72e520_d369d726",
         "filename": "doc/source/deployment/ubuntu_multi.rst",
         "patchSetId": 5
