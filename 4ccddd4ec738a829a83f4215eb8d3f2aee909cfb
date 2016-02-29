@@ -96,6 +96,30 @@
     },
     {
       "key": {
+        "uuid": "5a72e520_55e4e13a",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1003470
+      },
+      "writtenOn": "2016-02-29T13:14:30Z",
+      "side": 1,
+      "message": "Can you please explain what will be assigned to the k8s cluster to make sure each namespace will get its subnet?",
+      "parentUuid": "5a72e520_12ceff5a",
+      "range": {
+        "startLine": 8,
+        "startChar": 2,
+        "endLine": 9,
+        "endChar": 68
+      },
+      "revId": "4ccddd4ec738a829a83f4215eb8d3f2aee909cfb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5a72e520_1f48c82c",
         "filename": "doc/source/design.rst",
         "patchSetId": 1
@@ -183,6 +207,29 @@
         "startChar": 24,
         "endLine": 57,
         "endChar": 33
+      },
+      "revId": "4ccddd4ec738a829a83f4215eb8d3f2aee909cfb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_15c18980",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 57,
+      "author": {
+        "id": 1003470
+      },
+      "writtenOn": "2016-02-29T13:14:30Z",
+      "side": 1,
+      "message": "goes",
+      "range": {
+        "startLine": 57,
+        "startChar": 24,
+        "endLine": 57,
+        "endChar": 28
       },
       "revId": "4ccddd4ec738a829a83f4215eb8d3f2aee909cfb",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
@@ -288,6 +335,24 @@
       "side": 1,
       "message": "It\u0027s a single environment variable.",
       "parentUuid": "5a72e520_df5d50eb",
+      "revId": "4ccddd4ec738a829a83f4215eb8d3f2aee909cfb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_953c9995",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 107,
+      "author": {
+        "id": 1003470
+      },
+      "writtenOn": "2016-02-29T13:14:30Z",
+      "side": 1,
+      "message": "I understand, it will just be easier to review at small screen :-)",
+      "parentUuid": "5a72e520_32777b04",
       "revId": "4ccddd4ec738a829a83f4215eb8d3f2aee909cfb",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
@@ -482,6 +547,30 @@
     },
     {
       "key": {
+        "uuid": "5a72e520_3555a5c6",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 165,
+      "author": {
+        "id": 1003470
+      },
+      "writtenOn": "2016-02-29T13:14:30Z",
+      "side": 1,
+      "message": "Please add details once you find out.  It may impact how or with which components it should integrate",
+      "parentUuid": "5a72e520_12519f62",
+      "range": {
+        "startLine": 165,
+        "startChar": 23,
+        "endLine": 165,
+        "endChar": 30
+      },
+      "revId": "4ccddd4ec738a829a83f4215eb8d3f2aee909cfb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5a72e520_bf26d466",
         "filename": "doc/source/design.rst",
         "patchSetId": 1
@@ -576,6 +665,30 @@
     },
     {
       "key": {
+        "uuid": "5a72e520_156fc993",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 337,
+      "author": {
+        "id": 1003470
+      },
+      "writtenOn": "2016-02-29T13:14:30Z",
+      "side": 1,
+      "message": "not sure I follow. Service defines the selector for the pods that should serve as service endpoints. when pod is created, it does not have information of the service it belongs to. So the \u0027service handler\u0027 (like kube-proxy) will have to handle Pod creation/deletion event in order to add/remove members from the LB pool.",
+      "parentUuid": "5a72e520_b2e8cb7d",
+      "range": {
+        "startLine": 336,
+        "startChar": 0,
+        "endLine": 337,
+        "endChar": 5
+      },
+      "revId": "4ccddd4ec738a829a83f4215eb8d3f2aee909cfb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5a72e520_df2b902e",
         "filename": "doc/source/design.rst",
         "patchSetId": 1
@@ -623,6 +736,30 @@
     },
     {
       "key": {
+        "uuid": "5a72e520_950ad9d0",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 340,
+      "author": {
+        "id": 1003470
+      },
+      "writtenOn": "2016-02-29T13:14:30Z",
+      "side": 1,
+      "message": "I understood it differently. Maybe worth to post question on the 8s users slack ... My understanding based on http://kubernetes.io/v1.1/docs/user-guide/services.html#publishing-services---service-types is that the use case we are enabling is for the first (default) type which is clusterIP",
+      "parentUuid": "5a72e520_32fcdb3e",
+      "range": {
+        "startLine": 340,
+        "startChar": 9,
+        "endLine": 340,
+        "endChar": 22
+      },
+      "revId": "4ccddd4ec738a829a83f4215eb8d3f2aee909cfb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5a72e520_72881323",
         "filename": "doc/source/design.rst",
         "patchSetId": 1
@@ -658,6 +795,30 @@
       "side": 1,
       "message": "Can you find me more documentation about this?",
       "parentUuid": "5a72e520_72881323",
+      "range": {
+        "startLine": 364,
+        "startChar": 5,
+        "endLine": 364,
+        "endChar": 35
+      },
+      "revId": "4ccddd4ec738a829a83f4215eb8d3f2aee909cfb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_551781ed",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 364,
+      "author": {
+        "id": 1003470
+      },
+      "writtenOn": "2016-02-29T13:14:30Z",
+      "side": 1,
+      "message": "http://kubernetes.io/v1.1/docs/user-guide/services.html#type-loadbalancer.\n\nIn addition, there are Headless services  (no single IP address), which should be also supported to provide current k8s parity",
+      "parentUuid": "5a72e520_52f9574c",
       "range": {
         "startLine": 364,
         "startChar": 5,
