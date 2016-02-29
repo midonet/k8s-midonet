@@ -1,0 +1,366 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a72e520_df463023",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1003470
+      },
+      "writtenOn": "2016-02-29T11:08:09Z",
+      "side": 1,
+      "message": "flat mode",
+      "range": {
+        "startLine": 2,
+        "startChar": 19,
+        "endLine": 2,
+        "endChar": 27
+      },
+      "revId": "4ccddd4ec738a829a83f4215eb8d3f2aee909cfb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_ff4a0c26",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1003470
+      },
+      "writtenOn": "2016-02-29T11:08:09Z",
+      "side": 1,
+      "message": "This is not clear.  first part says one /16 for all namespaces, the second says  one namespace, one /16",
+      "range": {
+        "startLine": 8,
+        "startChar": 2,
+        "endLine": 9,
+        "endChar": 68
+      },
+      "revId": "4ccddd4ec738a829a83f4215eb8d3f2aee909cfb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_1f48c82c",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 1003470
+      },
+      "writtenOn": "2016-02-29T11:08:09Z",
+      "side": 1,
+      "message": "RC, Ingress, ... Maybe just \u0027define kubernetes API objects\u0027",
+      "range": {
+        "startLine": 28,
+        "startChar": 26,
+        "endLine": 28,
+        "endChar": 43
+      },
+      "revId": "4ccddd4ec738a829a83f4215eb8d3f2aee909cfb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_3f5584c6",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 57,
+      "author": {
+        "id": 1003470
+      },
+      "writtenOn": "2016-02-29T11:08:09Z",
+      "side": 1,
+      "message": "cannot be supported by",
+      "range": {
+        "startLine": 57,
+        "startChar": 24,
+        "endLine": 57,
+        "endChar": 33
+      },
+      "revId": "4ccddd4ec738a829a83f4215eb8d3f2aee909cfb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_5f5240de",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 61,
+      "author": {
+        "id": 1003470
+      },
+      "writtenOn": "2016-02-29T11:08:09Z",
+      "side": 1,
+      "message": "groups",
+      "range": {
+        "startLine": 61,
+        "startChar": 15,
+        "endLine": 61,
+        "endChar": 22
+      },
+      "revId": "4ccddd4ec738a829a83f4215eb8d3f2aee909cfb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_bf5894fb",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 61,
+      "author": {
+        "id": 1003470
+      },
+      "writtenOn": "2016-02-29T11:08:09Z",
+      "side": 1,
+      "message": "I think its better to say its considered part of the controller",
+      "range": {
+        "startLine": 61,
+        "startChar": 31,
+        "endLine": 61,
+        "endChar": 45
+      },
+      "revId": "4ccddd4ec738a829a83f4215eb8d3f2aee909cfb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_7f5e1ceb",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 61,
+      "author": {
+        "id": 1003470
+      },
+      "writtenOn": "2016-02-29T11:08:09Z",
+      "side": 1,
+      "message": "run",
+      "range": {
+        "startLine": 61,
+        "startChar": 46,
+        "endLine": 61,
+        "endChar": 52
+      },
+      "revId": "4ccddd4ec738a829a83f4215eb8d3f2aee909cfb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_df5d50eb",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 107,
+      "author": {
+        "id": 1003470
+      },
+      "writtenOn": "2016-02-29T11:08:09Z",
+      "side": 1,
+      "message": "Can you please break this line?",
+      "revId": "4ccddd4ec738a829a83f4215eb8d3f2aee909cfb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_ff712c78",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 114,
+      "author": {
+        "id": 1003470
+      },
+      "writtenOn": "2016-02-29T11:08:09Z",
+      "side": 1,
+      "message": "please clarify to what API is goes (k8s, neutron, midonet)",
+      "range": {
+        "startLine": 114,
+        "startChar": 43,
+        "endLine": 114,
+        "endChar": 56
+      },
+      "revId": "4ccddd4ec738a829a83f4215eb8d3f2aee909cfb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_1f6fe893",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 118,
+      "author": {
+        "id": 1003470
+      },
+      "writtenOn": "2016-02-29T11:08:09Z",
+      "side": 1,
+      "message": "or log that its going to be another retry",
+      "range": {
+        "startLine": 117,
+        "startChar": 61,
+        "endLine": 118,
+        "endChar": 14
+      },
+      "revId": "4ccddd4ec738a829a83f4215eb8d3f2aee909cfb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_fff84cc6",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 149,
+      "author": {
+        "id": 1003470
+      },
+      "writtenOn": "2016-02-29T11:08:09Z",
+      "side": 1,
+      "message": "I think network_plugin is CNI, but  driver is kuryr",
+      "range": {
+        "startLine": 149,
+        "startChar": 0,
+        "endLine": 149,
+        "endChar": 23
+      },
+      "revId": "4ccddd4ec738a829a83f4215eb8d3f2aee909cfb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_7f2c5c4b",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 165,
+      "author": {
+        "id": 1003470
+      },
+      "writtenOn": "2016-02-29T11:08:09Z",
+      "side": 1,
+      "message": "how the watcher knows what namespaces to poll?",
+      "range": {
+        "startLine": 165,
+        "startChar": 23,
+        "endLine": 165,
+        "endChar": 30
+      },
+      "revId": "4ccddd4ec738a829a83f4215eb8d3f2aee909cfb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_bf26d466",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 275,
+      "author": {
+        "id": 1003470
+      },
+      "writtenOn": "2016-02-29T11:08:09Z",
+      "side": 1,
+      "message": "I think it worth to describe separately the Raven startup. I think it will also create VIP network  and FIP network",
+      "range": {
+        "startLine": 275,
+        "startChar": 5,
+        "endLine": 275,
+        "endChar": 18
+      },
+      "revId": "4ccddd4ec738a829a83f4215eb8d3f2aee909cfb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_9f3118a5",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 337,
+      "author": {
+        "id": 1003470
+      },
+      "writtenOn": "2016-02-29T11:08:09Z",
+      "side": 1,
+      "message": "Do you suggest that Raven will be stateful? I think the pod creation should trigger the service handler that knows what labeled pods to watch.\nalso need to handle pod deletion",
+      "range": {
+        "startLine": 336,
+        "startChar": 0,
+        "endLine": 337,
+        "endChar": 5
+      },
+      "revId": "4ccddd4ec738a829a83f4215eb8d3f2aee909cfb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_df2b902e",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 340,
+      "author": {
+        "id": 1003470
+      },
+      "writtenOn": "2016-02-29T11:08:09Z",
+      "side": 1,
+      "message": "Why? Cannot it be supported for ClusterIP type?",
+      "range": {
+        "startLine": 340,
+        "startChar": 9,
+        "endLine": 340,
+        "endChar": 22
+      },
+      "revId": "4ccddd4ec738a829a83f4215eb8d3f2aee909cfb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_72881323",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 364,
+      "author": {
+        "id": 1003470
+      },
+      "writtenOn": "2016-02-29T11:08:09Z",
+      "side": 1,
+      "message": "I think the loadbalancer type is for the case, that LB is provided by the cloud provider and this is managed outside of the k8s network provider. \nI would suggest to add how the default service (type ClusterIP) is going to be supported (by neutron LB) and later on add details for integration with External Lb if this is feasible.",
+      "range": {
+        "startLine": 364,
+        "startChar": 5,
+        "endLine": 364,
+        "endChar": 35
+      },
+      "revId": "4ccddd4ec738a829a83f4215eb8d3f2aee909cfb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
