@@ -120,6 +120,64 @@
     },
     {
       "key": {
+        "uuid": "5a72e520_f0395bd9",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1002749
+      },
+      "writtenOn": "2016-02-29T16:36:22Z",
+      "side": 1,
+      "message": "Are we assuming the map \"k8s namespace \u003d\u003d neutron tenant?\"",
+      "parentUuid": "5a72e520_55e4e13a",
+      "range": {
+        "startLine": 8,
+        "startChar": 2,
+        "endLine": 9,
+        "endChar": 68
+      },
+      "revId": "4ccddd4ec738a829a83f4215eb8d3f2aee909cfb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_1037d7e4",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1002749
+      },
+      "writtenOn": "2016-02-29T16:36:22Z",
+      "side": 1,
+      "message": "How about if the user sets a service as \u0027LoadBalancer\u0027? What\u0027s the expected behaviour?",
+      "revId": "4ccddd4ec738a829a83f4215eb8d3f2aee909cfb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_3034d3dd",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1002749
+      },
+      "writtenOn": "2016-02-29T16:36:22Z",
+      "side": 1,
+      "message": "please, scale down a little bit the image...",
+      "revId": "4ccddd4ec738a829a83f4215eb8d3f2aee909cfb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5a72e520_1f48c82c",
         "filename": "doc/source/design.rst",
         "patchSetId": 1
@@ -306,6 +364,47 @@
     },
     {
       "key": {
+        "uuid": "5a72e520_9052e711",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 61,
+      "author": {
+        "id": 1002749
+      },
+      "writtenOn": "2016-02-29T16:36:22Z",
+      "side": 1,
+      "message": "I hope the design document will be maintained and improved in the future (when something will be implemented). Better use the present tense.",
+      "parentUuid": "5a72e520_bf5894fb",
+      "range": {
+        "startLine": 61,
+        "startChar": 31,
+        "endLine": 61,
+        "endChar": 45
+      },
+      "revId": "4ccddd4ec738a829a83f4215eb8d3f2aee909cfb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_90a027f6",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 100,
+      "author": {
+        "id": 1002749
+      },
+      "writtenOn": "2016-02-29T16:36:22Z",
+      "side": 1,
+      "message": "After seeing your schema, I think the IPs MidoNet CNI driver has to return are the overlay ones, not the ones assigned directly to the pod namespace (underlay). I am right? If so... Can you specify?",
+      "revId": "4ccddd4ec738a829a83f4215eb8d3f2aee909cfb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5a72e520_df5d50eb",
         "filename": "doc/source/design.rst",
         "patchSetId": 1
@@ -353,6 +452,41 @@
       "side": 1,
       "message": "I understand, it will just be easier to review at small screen :-)",
       "parentUuid": "5a72e520_32777b04",
+      "revId": "4ccddd4ec738a829a83f4215eb8d3f2aee909cfb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_50b6af3e",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 107,
+      "author": {
+        "id": 1002749
+      },
+      "writtenOn": "2016-02-29T16:36:22Z",
+      "side": 1,
+      "message": "There is a formatting error here. Remove the \u0027\u003e\u003e\u0027 lines in the beginning of the line",
+      "parentUuid": "5a72e520_953c9995",
+      "revId": "4ccddd4ec738a829a83f4215eb8d3f2aee909cfb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_7082cb53",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 112,
+      "author": {
+        "id": 1002749
+      },
+      "writtenOn": "2016-02-29T16:36:22Z",
+      "side": 1,
+      "message": "Is PORT_TYPE useful at all?",
       "revId": "4ccddd4ec738a829a83f4215eb8d3f2aee909cfb",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
@@ -453,6 +587,23 @@
     },
     {
       "key": {
+        "uuid": "5a72e520_d0f8dfe7",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 121,
+      "author": {
+        "id": 1002749
+      },
+      "writtenOn": "2016-02-29T16:36:22Z",
+      "side": 1,
+      "message": "It is not clear to me what will provide. The data from the API?",
+      "revId": "4ccddd4ec738a829a83f4215eb8d3f2aee909cfb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5a72e520_fff84cc6",
         "filename": "doc/source/design.rst",
         "patchSetId": 1
@@ -488,6 +639,30 @@
       "side": 1,
       "message": "@jaume: can you clarify which is it?",
       "parentUuid": "5a72e520_fff84cc6",
+      "range": {
+        "startLine": 149,
+        "startChar": 0,
+        "endLine": 149,
+        "endChar": 23
+      },
+      "revId": "4ccddd4ec738a829a83f4215eb8d3f2aee909cfb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_50e4ef3a",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 149,
+      "author": {
+        "id": 1002749
+      },
+      "writtenOn": "2016-02-29T16:36:22Z",
+      "side": 1,
+      "message": "Irena is right. network_plugin is CNI and the json should live in the \n\n    /usr/libexec/kubernetes/kubelet-plugins/net/exec/10-kuryr.conf \n\npath.",
+      "parentUuid": "5a72e520_f253236a",
       "range": {
         "startLine": 149,
         "startChar": 0,
@@ -559,6 +734,30 @@
       "side": 1,
       "message": "Please add details once you find out.  It may impact how or with which components it should integrate",
       "parentUuid": "5a72e520_12519f62",
+      "range": {
+        "startLine": 165,
+        "startChar": 23,
+        "endLine": 165,
+        "endChar": 30
+      },
+      "revId": "4ccddd4ec738a829a83f4215eb8d3f2aee909cfb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_d0cfffae",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 165,
+      "author": {
+        "id": 1002749
+      },
+      "writtenOn": "2016-02-29T16:36:22Z",
+      "side": 1,
+      "message": "You can as well watch all the pods:\n\n    get /api/v1/watch/pods \n\nWithouth the watch\u003dtrue query param. It is quite redundant endpoint, but useful.",
+      "parentUuid": "5a72e520_3555a5c6",
       "range": {
         "startLine": 165,
         "startChar": 23,
