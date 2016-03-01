@@ -144,6 +144,54 @@
     },
     {
       "key": {
+        "uuid": "5a72e520_0947ad20",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1003057
+      },
+      "writtenOn": "2016-03-01T14:13:23Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "5a72e520_55e4e13a",
+      "range": {
+        "startLine": 8,
+        "startChar": 2,
+        "endLine": 9,
+        "endChar": 68
+      },
+      "revId": "4ccddd4ec738a829a83f4215eb8d3f2aee909cfb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_294b892c",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1003057
+      },
+      "writtenOn": "2016-03-01T14:13:23Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "5a72e520_f0395bd9",
+      "range": {
+        "startLine": 8,
+        "startChar": 2,
+        "endLine": 9,
+        "endChar": 68
+      },
+      "revId": "4ccddd4ec738a829a83f4215eb8d3f2aee909cfb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5a72e520_1037d7e4",
         "filename": "doc/source/design.rst",
         "patchSetId": 1
@@ -161,6 +209,24 @@
     },
     {
       "key": {
+        "uuid": "5a72e520_691ae118",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1003057
+      },
+      "writtenOn": "2016-03-01T14:13:23Z",
+      "side": 1,
+      "message": "In my opinion it is fine that for the LoadBalancer service we just assign a FIP to the service Load balancer.",
+      "parentUuid": "5a72e520_1037d7e4",
+      "revId": "4ccddd4ec738a829a83f4215eb8d3f2aee909cfb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5a72e520_3034d3dd",
         "filename": "doc/source/design.rst",
         "patchSetId": 1
@@ -172,6 +238,24 @@
       "writtenOn": "2016-02-29T16:36:22Z",
       "side": 1,
       "message": "please, scale down a little bit the image...",
+      "revId": "4ccddd4ec738a829a83f4215eb8d3f2aee909cfb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_c9d83556",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1003057
+      },
+      "writtenOn": "2016-03-01T14:13:23Z",
+      "side": 1,
+      "message": "I suspect that they have it this big because of hidpi monitors (looks good on mine too).",
+      "parentUuid": "5a72e520_3034d3dd",
       "revId": "4ccddd4ec738a829a83f4215eb8d3f2aee909cfb",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
@@ -295,6 +379,30 @@
     },
     {
       "key": {
+        "uuid": "5a72e520_a9a139ab",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 57,
+      "author": {
+        "id": 1003057
+      },
+      "writtenOn": "2016-03-01T14:13:23Z",
+      "side": 1,
+      "message": "http://www.merriam-webster.com/dictionary/do%20away%20with",
+      "parentUuid": "5a72e520_15c18980",
+      "range": {
+        "startLine": 57,
+        "startChar": 24,
+        "endLine": 57,
+        "endChar": 28
+      },
+      "revId": "4ccddd4ec738a829a83f4215eb8d3f2aee909cfb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5a72e520_5f5240de",
         "filename": "doc/source/design.rst",
         "patchSetId": 1
@@ -388,6 +496,78 @@
     },
     {
       "key": {
+        "uuid": "5a72e520_c9a675c1",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 61,
+      "author": {
+        "id": 1003057
+      },
+      "writtenOn": "2016-03-01T14:13:23Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "5a72e520_5f5240de",
+      "range": {
+        "startLine": 61,
+        "startChar": 15,
+        "endLine": 61,
+        "endChar": 22
+      },
+      "revId": "4ccddd4ec738a829a83f4215eb8d3f2aee909cfb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_09b16df8",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 61,
+      "author": {
+        "id": 1003057
+      },
+      "writtenOn": "2016-03-01T14:13:23Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "5a72e520_bf5894fb",
+      "range": {
+        "startLine": 61,
+        "startChar": 31,
+        "endLine": 61,
+        "endChar": 45
+      },
+      "revId": "4ccddd4ec738a829a83f4215eb8d3f2aee909cfb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_e9ab3187",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 61,
+      "author": {
+        "id": 1003057
+      },
+      "writtenOn": "2016-03-01T14:13:23Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "5a72e520_9052e711",
+      "range": {
+        "startLine": 61,
+        "startChar": 31,
+        "endLine": 61,
+        "endChar": 45
+      },
+      "revId": "4ccddd4ec738a829a83f4215eb8d3f2aee909cfb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5a72e520_90a027f6",
         "filename": "doc/source/design.rst",
         "patchSetId": 1
@@ -399,6 +579,24 @@
       "writtenOn": "2016-02-29T16:36:22Z",
       "side": 1,
       "message": "After seeing your schema, I think the IPs MidoNet CNI driver has to return are the overlay ones, not the ones assigned directly to the pod namespace (underlay). I am right? If so... Can you specify?",
+      "revId": "4ccddd4ec738a829a83f4215eb8d3f2aee909cfb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_699f4160",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 100,
+      "author": {
+        "id": 1003057
+      },
+      "writtenOn": "2016-03-01T14:13:23Z",
+      "side": 1,
+      "message": "The CNI driver returns IP addresses from the overlay yes. Those are the addresses that get assigned to the pods.",
+      "parentUuid": "5a72e520_90a027f6",
       "revId": "4ccddd4ec738a829a83f4215eb8d3f2aee909cfb",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
@@ -476,6 +674,24 @@
     },
     {
       "key": {
+        "uuid": "5a72e520_297c6920",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 107,
+      "author": {
+        "id": 1003057
+      },
+      "writtenOn": "2016-03-01T14:13:23Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "5a72e520_50b6af3e",
+      "revId": "4ccddd4ec738a829a83f4215eb8d3f2aee909cfb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5a72e520_7082cb53",
         "filename": "doc/source/design.rst",
         "patchSetId": 1
@@ -487,6 +703,24 @@
       "writtenOn": "2016-02-29T16:36:22Z",
       "side": 1,
       "message": "Is PORT_TYPE useful at all?",
+      "revId": "4ccddd4ec738a829a83f4215eb8d3f2aee909cfb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_69ad8188",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 112,
+      "author": {
+        "id": 1003057
+      },
+      "writtenOn": "2016-03-01T14:13:23Z",
+      "side": 1,
+      "message": "Indeed it is, it is used for finding out which script for binding in /usr/libexec/kuryr/ we should use. midonet/ovs, etc.",
+      "parentUuid": "5a72e520_7082cb53",
       "revId": "4ccddd4ec738a829a83f4215eb8d3f2aee909cfb",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
@@ -604,6 +838,24 @@
     },
     {
       "key": {
+        "uuid": "5a72e520_89aabd6e",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 121,
+      "author": {
+        "id": 1003057
+      },
+      "writtenOn": "2016-03-01T14:13:23Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "5a72e520_d0f8dfe7",
+      "revId": "4ccddd4ec738a829a83f4215eb8d3f2aee909cfb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5a72e520_fff84cc6",
         "filename": "doc/source/design.rst",
         "patchSetId": 1
@@ -663,6 +915,30 @@
       "side": 1,
       "message": "Irena is right. network_plugin is CNI and the json should live in the \n\n    /usr/libexec/kubernetes/kubelet-plugins/net/exec/10-kuryr.conf \n\npath.",
       "parentUuid": "5a72e520_f253236a",
+      "range": {
+        "startLine": 149,
+        "startChar": 0,
+        "endLine": 149,
+        "endChar": 23
+      },
+      "revId": "4ccddd4ec738a829a83f4215eb8d3f2aee909cfb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_09ededc3",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 149,
+      "author": {
+        "id": 1003057
+      },
+      "writtenOn": "2016-03-01T14:13:23Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "5a72e520_50e4ef3a",
       "range": {
         "startLine": 149,
         "startChar": 0,
@@ -959,6 +1235,30 @@
     },
     {
       "key": {
+        "uuid": "5a72e520_89463dbe",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 340,
+      "author": {
+        "id": 1003057
+      },
+      "writtenOn": "2016-03-01T14:13:23Z",
+      "side": 1,
+      "message": "I want to enable both, clusterIP and loadbalancer. but instead of using a cloud provider for external load balancer, I think it is okay to just make the clusterIP externally reachable (which depending on the LBaaS implementation will already add a second level of ha).",
+      "parentUuid": "5a72e520_950ad9d0",
+      "range": {
+        "startLine": 340,
+        "startChar": 9,
+        "endLine": 340,
+        "endChar": 22
+      },
+      "revId": "4ccddd4ec738a829a83f4215eb8d3f2aee909cfb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5a72e520_72881323",
         "filename": "doc/source/design.rst",
         "patchSetId": 1
@@ -1018,6 +1318,30 @@
       "side": 1,
       "message": "http://kubernetes.io/v1.1/docs/user-guide/services.html#type-loadbalancer.\n\nIn addition, there are Headless services  (no single IP address), which should be also supported to provide current k8s parity",
       "parentUuid": "5a72e520_52f9574c",
+      "range": {
+        "startLine": 364,
+        "startChar": 5,
+        "endLine": 364,
+        "endChar": 35
+      },
+      "revId": "4ccddd4ec738a829a83f4215eb8d3f2aee909cfb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_0cab3bd9",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 364,
+      "author": {
+        "id": 1003057
+      },
+      "writtenOn": "2016-03-01T14:13:23Z",
+      "side": 1,
+      "message": "Wouldn\u0027t headless services be just pods without the clusterip LB? I would postpone any consideration for external LB until after flatmode design.",
+      "parentUuid": "5a72e520_551781ed",
       "range": {
         "startLine": 364,
         "startChar": 5,
