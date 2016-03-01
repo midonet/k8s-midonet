@@ -1,0 +1,191 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a72e520_e67b6127",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 82,
+      "author": {
+        "id": 1002743
+      },
+      "writtenOn": "2016-03-01T07:31:09Z",
+      "side": 1,
+      "message": "Spaces rather than tabs.",
+      "revId": "61dae2bc1717a6bbfbcbcc3d9eca8475a465923f",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_06795d2f",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 107,
+      "author": {
+        "id": 1002743
+      },
+      "writtenOn": "2016-03-01T07:31:09Z",
+      "side": 1,
+      "message": "tab",
+      "revId": "61dae2bc1717a6bbfbcbcc3d9eca8475a465923f",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_26aad919",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 130,
+      "author": {
+        "id": 1002743
+      },
+      "writtenOn": "2016-03-01T07:31:09Z",
+      "side": 1,
+      "message": "Is it \"kubelet-plugins\" rather than \"kubernetes-plugin\"? Did you mean \"/usr/libexec/kubernetes/kubernetes-plugin/net/exec\"?",
+      "revId": "61dae2bc1717a6bbfbcbcc3d9eca8475a465923f",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_2676593f",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 137,
+      "author": {
+        "id": 1002743
+      },
+      "writtenOn": "2016-03-01T07:31:09Z",
+      "side": 1,
+      "message": "tab",
+      "revId": "61dae2bc1717a6bbfbcbcc3d9eca8475a465923f",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_6663f11a",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 144,
+      "author": {
+        "id": 1002743
+      },
+      "writtenOn": "2016-03-01T07:31:09Z",
+      "side": 1,
+      "message": "Ditto. kubernetes-plugin?",
+      "revId": "61dae2bc1717a6bbfbcbcc3d9eca8475a465923f",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_8668edf6",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 149,
+      "author": {
+        "id": 1002743
+      },
+      "writtenOn": "2016-03-01T07:31:09Z",
+      "side": 1,
+      "message": "tab",
+      "revId": "61dae2bc1717a6bbfbcbcc3d9eca8475a465923f",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_e67601d8",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 165,
+      "author": {
+        "id": 1002743
+      },
+      "writtenOn": "2016-03-01T07:31:09Z",
+      "side": 1,
+      "message": "Although I mentioned this endpoint in another doc, Raven can\u0027t know which namespace should be watched. So it\u0027s better to watch /api/v1//pods?watch\u003dtrue and inspect the namespace in the response.",
+      "revId": "61dae2bc1717a6bbfbcbcc3d9eca8475a465923f",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_4673554d",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 172,
+      "author": {
+        "id": 1002743
+      },
+      "writtenOn": "2016-03-01T07:31:09Z",
+      "side": 1,
+      "message": "tab",
+      "revId": "61dae2bc1717a6bbfbcbcc3d9eca8475a465923f",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_0674fdcd",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 279,
+      "author": {
+        "id": 1002743
+      },
+      "writtenOn": "2016-03-01T07:31:09Z",
+      "side": 1,
+      "message": "Ditto. /api/v1/services?watch\u003dtrue is better.",
+      "revId": "61dae2bc1717a6bbfbcbcc3d9eca8475a465923f",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_668f7124",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 286,
+      "author": {
+        "id": 1002743
+      },
+      "writtenOn": "2016-03-01T07:31:09Z",
+      "side": 1,
+      "message": "tab",
+      "revId": "61dae2bc1717a6bbfbcbcc3d9eca8475a465923f",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_86946d38",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 346,
+      "author": {
+        "id": 1002743
+      },
+      "writtenOn": "2016-03-01T07:31:09Z",
+      "side": 1,
+      "message": "tab",
+      "revId": "61dae2bc1717a6bbfbcbcc3d9eca8475a465923f",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
