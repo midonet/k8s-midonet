@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "5a72e520_29954940",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 82,
+      "author": {
+        "id": 1003057
+      },
+      "writtenOn": "2016-03-01T14:13:23Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "5a72e520_e67b6127",
+      "revId": "61dae2bc1717a6bbfbcbcc3d9eca8475a465923f",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5a72e520_06795d2f",
         "filename": "doc/source/design.rst",
         "patchSetId": 2
@@ -30,6 +48,24 @@
       "writtenOn": "2016-03-01T07:31:09Z",
       "side": 1,
       "message": "tab",
+      "revId": "61dae2bc1717a6bbfbcbcc3d9eca8475a465923f",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_a9885923",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 107,
+      "author": {
+        "id": 1003057
+      },
+      "writtenOn": "2016-03-01T14:13:23Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "5a72e520_06795d2f",
       "revId": "61dae2bc1717a6bbfbcbcc3d9eca8475a465923f",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
@@ -53,6 +89,24 @@
     },
     {
       "key": {
+        "uuid": "5a72e520_29caa94f",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 130,
+      "author": {
+        "id": 1003057
+      },
+      "writtenOn": "2016-03-01T14:13:23Z",
+      "side": 1,
+      "message": "I copied it from Jaume\u0027s findings. Can you tell me which is it, Jaume?",
+      "parentUuid": "5a72e520_26aad919",
+      "revId": "61dae2bc1717a6bbfbcbcc3d9eca8475a465923f",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5a72e520_2676593f",
         "filename": "doc/source/design.rst",
         "patchSetId": 2
@@ -64,6 +118,24 @@
       "writtenOn": "2016-03-01T07:31:09Z",
       "side": 1,
       "message": "tab",
+      "revId": "61dae2bc1717a6bbfbcbcc3d9eca8475a465923f",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_49c7e545",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 137,
+      "author": {
+        "id": 1003057
+      },
+      "writtenOn": "2016-03-01T14:13:23Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "5a72e520_2676593f",
       "revId": "61dae2bc1717a6bbfbcbcc3d9eca8475a465923f",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
@@ -87,6 +159,24 @@
     },
     {
       "key": {
+        "uuid": "5a72e520_69c4a140",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 144,
+      "author": {
+        "id": 1003057
+      },
+      "writtenOn": "2016-03-01T14:13:23Z",
+      "side": 1,
+      "message": "Jaume?",
+      "parentUuid": "5a72e520_6663f11a",
+      "revId": "61dae2bc1717a6bbfbcbcc3d9eca8475a465923f",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5a72e520_8668edf6",
         "filename": "doc/source/design.rst",
         "patchSetId": 2
@@ -98,6 +188,24 @@
       "writtenOn": "2016-03-01T07:31:09Z",
       "side": 1,
       "message": "tab",
+      "revId": "61dae2bc1717a6bbfbcbcc3d9eca8475a465923f",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_a9ddb916",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 149,
+      "author": {
+        "id": 1003057
+      },
+      "writtenOn": "2016-03-01T14:13:23Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "5a72e520_8668edf6",
       "revId": "61dae2bc1717a6bbfbcbcc3d9eca8475a465923f",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
@@ -121,6 +229,24 @@
     },
     {
       "key": {
+        "uuid": "5a72e520_29d1c9fb",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 165,
+      "author": {
+        "id": 1003057
+      },
+      "writtenOn": "2016-03-01T14:13:23Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "5a72e520_e67601d8",
+      "revId": "61dae2bc1717a6bbfbcbcc3d9eca8475a465923f",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5a72e520_4673554d",
         "filename": "doc/source/design.rst",
         "patchSetId": 2
@@ -132,6 +258,24 @@
       "writtenOn": "2016-03-01T07:31:09Z",
       "side": 1,
       "message": "tab",
+      "revId": "61dae2bc1717a6bbfbcbcc3d9eca8475a465923f",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_c9091597",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 172,
+      "author": {
+        "id": 1003057
+      },
+      "writtenOn": "2016-03-01T14:13:23Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "5a72e520_4673554d",
       "revId": "61dae2bc1717a6bbfbcbcc3d9eca8475a465923f",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
@@ -155,6 +299,24 @@
     },
     {
       "key": {
+        "uuid": "5a72e520_694901d0",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 279,
+      "author": {
+        "id": 1003057
+      },
+      "writtenOn": "2016-03-01T14:13:23Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "5a72e520_0674fdcd",
+      "revId": "61dae2bc1717a6bbfbcbcc3d9eca8475a465923f",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5a72e520_668f7124",
         "filename": "doc/source/design.rst",
         "patchSetId": 2
@@ -172,6 +334,24 @@
     },
     {
       "key": {
+        "uuid": "5a72e520_493c4530",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 286,
+      "author": {
+        "id": 1003057
+      },
+      "writtenOn": "2016-03-01T14:13:23Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "5a72e520_668f7124",
+      "revId": "61dae2bc1717a6bbfbcbcc3d9eca8475a465923f",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5a72e520_86946d38",
         "filename": "doc/source/design.rst",
         "patchSetId": 2
@@ -183,6 +363,24 @@
       "writtenOn": "2016-03-01T07:31:09Z",
       "side": 1,
       "message": "tab",
+      "revId": "61dae2bc1717a6bbfbcbcc3d9eca8475a465923f",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_a91219b2",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 346,
+      "author": {
+        "id": 1003057
+      },
+      "writtenOn": "2016-03-01T14:13:23Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "5a72e520_86946d38",
       "revId": "61dae2bc1717a6bbfbcbcc3d9eca8475a465923f",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
