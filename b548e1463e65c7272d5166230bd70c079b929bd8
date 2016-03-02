@@ -1,0 +1,199 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a72e520_bde9731c",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 3
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 1003470
+      },
+      "writtenOn": "2016-03-02T09:38:59Z",
+      "side": 1,
+      "message": "It is a bit confusing to talk about network but mentioning subnet. \nI think it worth to leave to the cluster admin if its /16 or /24.\nSo the important assumption that worth to mention is that each namespace gets its own subnet that does not overlap with other namespaces.\n\nI would like to see that the implementation can be extended easily later to different subnet allocations, maybe the one that flannel uses (with slice per host).  but for the first phase, that it just gets some config settings that guide it to provide certain allocation scheme.",
+      "range": {
+        "startLine": 8,
+        "startChar": 2,
+        "endLine": 8,
+        "endChar": 64
+      },
+      "revId": "b548e1463e65c7272d5166230bd70c079b929bd8",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_fdf3eb07",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 3
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1003470
+      },
+      "writtenOn": "2016-03-02T09:38:59Z",
+      "side": 1,
+      "message": "Each IP?",
+      "range": {
+        "startLine": 9,
+        "startChar": 2,
+        "endLine": 9,
+        "endChar": 35
+      },
+      "revId": "b548e1463e65c7272d5166230bd70c079b929bd8",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_1df9a7e9",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 3
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1003470
+      },
+      "writtenOn": "2016-03-02T09:38:59Z",
+      "side": 1,
+      "message": "What tenant stands for and how it is managed?",
+      "range": {
+        "startLine": 11,
+        "startChar": 7,
+        "endLine": 11,
+        "endChar": 13
+      },
+      "revId": "b548e1463e65c7272d5166230bd70c079b929bd8",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_3ddd8371",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 3
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 1003470
+      },
+      "writtenOn": "2016-03-02T09:38:59Z",
+      "side": 1,
+      "message": "Worth to add that kube-proxy is not used",
+      "range": {
+        "startLine": 13,
+        "startChar": 26,
+        "endLine": 13,
+        "endChar": 49
+      },
+      "revId": "b548e1463e65c7272d5166230bd70c079b929bd8",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_5dda3f79",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 3
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 1003470
+      },
+      "writtenOn": "2016-03-02T09:38:59Z",
+      "side": 1,
+      "message": "This is different from what we discuss over google spec. Can we clear this at the spec first?",
+      "range": {
+        "startLine": 14,
+        "startChar": 60,
+        "endLine": 15,
+        "endChar": 44
+      },
+      "revId": "b548e1463e65c7272d5166230bd70c079b929bd8",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_9d52f7db",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 3
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 1003470
+      },
+      "writtenOn": "2016-03-02T09:38:59Z",
+      "side": 1,
+      "message": "Please add also that leveraging kuryr as assumption",
+      "revId": "b548e1463e65c7272d5166230bd70c079b929bd8",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_1d5e07e7",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 3
+      },
+      "lineNbr": 121,
+      "author": {
+        "id": 1003470
+      },
+      "writtenOn": "2016-03-02T09:38:59Z",
+      "side": 1,
+      "message": "Following what is currently in kuryr, it has also mac_address",
+      "revId": "b548e1463e65c7272d5166230bd70c079b929bd8",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_3df903c9",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 3
+      },
+      "lineNbr": 293,
+      "author": {
+        "id": 1003470
+      },
+      "writtenOn": "2016-03-02T09:38:59Z",
+      "side": 1,
+      "message": "with what?\nI think you mean router to connect internal/public and LB subnets",
+      "range": {
+        "startLine": 293,
+        "startChar": 72,
+        "endLine": 293,
+        "endChar": 76
+      },
+      "revId": "b548e1463e65c7272d5166230bd70c079b929bd8",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_1d2c4747",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 3
+      },
+      "lineNbr": 359,
+      "author": {
+        "id": 1003470
+      },
+      "writtenOn": "2016-03-02T09:38:59Z",
+      "side": 1,
+      "message": "From what I see in the k8s documentation of the service, it is achieved by assigning ExternalIP https://github.com/kubernetes/kubernetes/blob/master/docs/user-guide/services.md#external-ips. I think this should map to the FIP",
+      "range": {
+        "startLine": 358,
+        "startChar": 0,
+        "endLine": 359,
+        "endChar": 71
+      },
+      "revId": "b548e1463e65c7272d5166230bd70c079b929bd8",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
