@@ -1351,6 +1351,30 @@
       "revId": "4ccddd4ec738a829a83f4215eb8d3f2aee909cfb",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_fdabeb86",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 364,
+      "author": {
+        "id": 1003470
+      },
+      "writtenOn": "2016-03-02T10:17:05Z",
+      "side": 1,
+      "message": "I agree with you, that\u0027s why I think flat mode should handle the option to assign service of ClusterIP type with ExternalIP, and not handle loadbalancerIP type for now.",
+      "parentUuid": "5a72e520_0cab3bd9",
+      "range": {
+        "startLine": 364,
+        "startChar": 5,
+        "endLine": 364,
+        "endChar": 35
+      },
+      "revId": "4ccddd4ec738a829a83f4215eb8d3f2aee909cfb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
     }
   ]
 }
