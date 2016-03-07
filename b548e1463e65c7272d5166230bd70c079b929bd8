@@ -151,6 +151,29 @@
     },
     {
       "key": {
+        "uuid": "5a72e520_9579ebfe",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 3
+      },
+      "lineNbr": 290,
+      "author": {
+        "id": 1003470
+      },
+      "writtenOn": "2016-03-07T09:19:51Z",
+      "side": 1,
+      "message": "same for non default default namespaces",
+      "range": {
+        "startLine": 290,
+        "startChar": 17,
+        "endLine": 290,
+        "endChar": 34
+      },
+      "revId": "b548e1463e65c7272d5166230bd70c079b929bd8",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5a72e520_3df903c9",
         "filename": "doc/source/design.rst",
         "patchSetId": 3
