@@ -217,6 +217,23 @@
       "revId": "b548e1463e65c7272d5166230bd70c079b929bd8",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a72e520_c6480e5e",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 3
+      },
+      "lineNbr": 379,
+      "author": {
+        "id": 1002897
+      },
+      "writtenOn": "2016-03-10T08:38:27Z",
+      "side": 1,
+      "message": "how these three ports are used in POV of neutron?",
+      "revId": "b548e1463e65c7272d5166230bd70c079b929bd8",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
     }
   ]
 }
