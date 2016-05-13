@@ -1,0 +1,228 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "baa041b7_935691cc",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 5
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 1002897
+      },
+      "writtenOn": "2016-05-13T09:42:19Z",
+      "side": 1,
+      "message": "can you explain tenant?",
+      "range": {
+        "startLine": 13,
+        "startChar": 7,
+        "endLine": 13,
+        "endChar": 13
+      },
+      "revId": "5ee9e9da5665216f2f5d0ca32aa6be0c7ebd5cc9",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baa041b7_534ec93b",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 5
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 1002897
+      },
+      "writtenOn": "2016-05-13T09:42:19Z",
+      "side": 1,
+      "message": "you mean to provide only ClusterIP?",
+      "range": {
+        "startLine": 18,
+        "startChar": 2,
+        "endLine": 18,
+        "endChar": 28
+      },
+      "revId": "5ee9e9da5665216f2f5d0ca32aa6be0c7ebd5cc9",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baa041b7_b30cf5ed",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 5
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 1002897
+      },
+      "writtenOn": "2016-05-13T09:42:19Z",
+      "side": 1,
+      "message": "what\u0027s the Cluster router?  is it a single router for the whole deployment?",
+      "range": {
+        "startLine": 19,
+        "startChar": 67,
+        "endLine": 20,
+        "endChar": 9
+      },
+      "revId": "5ee9e9da5665216f2f5d0ca32aa6be0c7ebd5cc9",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baa041b7_33c4658f",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 5
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1002897
+      },
+      "writtenOn": "2016-05-13T09:42:19Z",
+      "side": 1,
+      "message": "does this mean to provide neutron ipam driver?",
+      "revId": "5ee9e9da5665216f2f5d0ca32aa6be0c7ebd5cc9",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baa041b7_5375a961",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 5
+      },
+      "lineNbr": 301,
+      "author": {
+        "id": 1002897
+      },
+      "writtenOn": "2016-05-13T09:42:19Z",
+      "side": 1,
+      "message": "what\u0027s VIP network?\n\nis it a network which has the \"separate cluster subnet\" mentioned in the assumption section?",
+      "range": {
+        "startLine": 301,
+        "startChar": 17,
+        "endLine": 301,
+        "endChar": 28
+      },
+      "revId": "5ee9e9da5665216f2f5d0ca32aa6be0c7ebd5cc9",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baa041b7_3372257c",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 5
+      },
+      "lineNbr": 302,
+      "author": {
+        "id": 1002897
+      },
+      "writtenOn": "2016-05-13T09:42:19Z",
+      "side": 1,
+      "message": "what\u0027s configured VIP public network?",
+      "range": {
+        "startLine": 302,
+        "startChar": 17,
+        "endLine": 302,
+        "endChar": 46
+      },
+      "revId": "5ee9e9da5665216f2f5d0ca32aa6be0c7ebd5cc9",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baa041b7_130281b4",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 5
+      },
+      "lineNbr": 304,
+      "author": {
+        "id": 1002897
+      },
+      "writtenOn": "2016-05-13T09:42:19Z",
+      "side": 1,
+      "message": "can you provide a diagram?",
+      "range": {
+        "startLine": 303,
+        "startChar": 2,
+        "endLine": 304,
+        "endChar": 17
+      },
+      "revId": "5ee9e9da5665216f2f5d0ca32aa6be0c7ebd5cc9",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baa041b7_d30779c8",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 5
+      },
+      "lineNbr": 362,
+      "author": {
+        "id": 1002897
+      },
+      "writtenOn": "2016-05-13T09:42:19Z",
+      "side": 1,
+      "message": "is this \"the VIP network\" mentioned above?",
+      "range": {
+        "startLine": 362,
+        "startChar": 61,
+        "endLine": 362,
+        "endChar": 79
+      },
+      "revId": "5ee9e9da5665216f2f5d0ca32aa6be0c7ebd5cc9",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baa041b7_53fc89b7",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 5
+      },
+      "lineNbr": 367,
+      "author": {
+        "id": 1002897
+      },
+      "writtenOn": "2016-05-13T09:42:19Z",
+      "side": 1,
+      "message": "raven does this?",
+      "range": {
+        "startLine": 366,
+        "startChar": 16,
+        "endLine": 367,
+        "endChar": 5
+      },
+      "revId": "5ee9e9da5665216f2f5d0ca32aa6be0c7ebd5cc9",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baa041b7_334b452c",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 5
+      },
+      "lineNbr": 370,
+      "author": {
+        "id": 1002897
+      },
+      "writtenOn": "2016-05-13T09:42:19Z",
+      "side": 1,
+      "message": "is this same external ip as this?\nhttp://kubernetes.io/docs/user-guide/services/#external-ips",
+      "range": {
+        "startLine": 370,
+        "startChar": 9,
+        "endLine": 370,
+        "endChar": 20
+      },
+      "revId": "5ee9e9da5665216f2f5d0ca32aa6be0c7ebd5cc9",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
