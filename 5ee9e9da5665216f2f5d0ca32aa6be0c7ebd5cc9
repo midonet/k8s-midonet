@@ -2,6 +2,29 @@
   "comments": [
     {
       "key": {
+        "uuid": "baa041b7_d3d5391c",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 5
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 1005043
+      },
+      "writtenOn": "2016-05-14T20:25:04Z",
+      "side": 1,
+      "message": "typo",
+      "range": {
+        "startLine": 10,
+        "startChar": 21,
+        "endLine": 10,
+        "endChar": 27
+      },
+      "revId": "5ee9e9da5665216f2f5d0ca32aa6be0c7ebd5cc9",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "baa041b7_935691cc",
         "filename": "doc/source/design.rst",
         "patchSetId": 5
@@ -62,6 +85,29 @@
       "range": {
         "startLine": 19,
         "startChar": 67,
+        "endLine": 20,
+        "endChar": 9
+      },
+      "revId": "5ee9e9da5665216f2f5d0ca32aa6be0c7ebd5cc9",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baa041b7_d5e51aa4",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 5
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 1005043
+      },
+      "writtenOn": "2016-05-14T20:25:04Z",
+      "side": 1,
+      "message": "My understanding is that you are describing here the neutron network model of midonet 2015.06, in 5.x the schema differs, there is an edge router connected to a floating IP network and the Tenant routers are connected to the floating IP subnet. If this is the case I guess this model can\u0027t work with 5.X.",
+      "range": {
+        "startLine": 15,
+        "startChar": 2,
         "endLine": 20,
         "endChar": 9
       },
@@ -150,6 +196,29 @@
         "startChar": 2,
         "endLine": 304,
         "endChar": 17
+      },
+      "revId": "5ee9e9da5665216f2f5d0ca32aa6be0c7ebd5cc9",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baa041b7_7501ae37",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 5
+      },
+      "lineNbr": 359,
+      "author": {
+        "id": 1005043
+      },
+      "writtenOn": "2016-05-14T20:25:04Z",
+      "side": 1,
+      "message": "Midonet or Neutron haproxy LB? If the former I guess that you can\u0027t assign FIP to the VIP of the midonet LB",
+      "range": {
+        "startLine": 359,
+        "startChar": 47,
+        "endLine": 359,
+        "endChar": 69
       },
       "revId": "5ee9e9da5665216f2f5d0ca32aa6be0c7ebd5cc9",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
