@@ -226,6 +226,30 @@
     },
     {
       "key": {
+        "uuid": "baa041b7_9b98e3c1",
+        "filename": "doc/source/design.rst",
+        "patchSetId": 5
+      },
+      "lineNbr": 359,
+      "author": {
+        "id": 1002897
+      },
+      "writtenOn": "2016-05-16T07:27:04Z",
+      "side": 1,
+      "message": "Antonio,\n\nmy understanding is that this document is assuming an LB implementation compatible with neutron-lbaas model.\nfiguring out incompatibilities is a next step.",
+      "parentUuid": "baa041b7_7501ae37",
+      "range": {
+        "startLine": 359,
+        "startChar": 47,
+        "endLine": 359,
+        "endChar": 69
+      },
+      "revId": "5ee9e9da5665216f2f5d0ca32aa6be0c7ebd5cc9",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "baa041b7_d30779c8",
         "filename": "doc/source/design.rst",
         "patchSetId": 5
